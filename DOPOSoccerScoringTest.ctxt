@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Nov 15 18:12:36 COT 2026
+comment0.target=DOPOSoccerScoringTest
+comment0.text=\r\n The test class DOPOSoccerScoringTest.\r\n\r\n @author  (your name)\r\n @version (a version number or a date)\r\n
+comment1.target=void testInitialScoresAreZero()
+comment2.target=void testGoalIncrementsScoreAndResetsPositions()
+comment3.target=void testDefenderReceivesEnergyBoostOnGoal()
+comment4.target=void testGoalLimitModeTriggerGameOver()
+numComments=5

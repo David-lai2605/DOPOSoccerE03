@@ -1,0 +1,29 @@
+#BlueJ class context
+#Sun Nov 15 16:40:45 COT 2026
+comment0.target=Character
+comment0.text=\r\n Write a description of class Character here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=country x y shot
+comment1.target=Character(java.lang.String, double, double, SpecialShot)
+comment10.params=x y
+comment10.target=void setPosition(double, double)
+comment11.target=int getGoal()
+comment12.target=void addGoal()
+comment13.target=double getCurrentHealth()
+comment14.target=EnergyBar getEnergyBar()
+comment15.target=boolean hasPowerActive()
+comment16.target=java.lang.String getCountry()
+comment17.target=Estadistica getStats()
+comment2.params=deltaTime
+comment2.target=void update(double)
+comment3.params=opponent ball
+comment3.target=void kick(Character, Ball)
+comment4.target=void activatePower()
+comment5.params=ball opponent
+comment5.target=void executeSpecial(Ball, Character)
+comment6.params=amount
+comment6.target=void receiveDamage(double)
+comment7.target=void stun()
+comment8.params=effect duration
+comment8.target=void applyEffectStatus(java.lang.String, float)
+comment9.target=Vector2 getPosition()
+numComments=18

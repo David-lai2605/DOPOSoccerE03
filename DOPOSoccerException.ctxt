@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Nov 15 16:40:45 COT 2026
+comment0.target=DOPOSoccerException
+comment0.text=\r\n Write a description of class DOPOSoccerException here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=message
+comment1.target=DOPOSoccerException(java.lang.String)
+comment1.text=\r\n Constructor for objects of class DOPOSoccerException\r\n
+numComments=2

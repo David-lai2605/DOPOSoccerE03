@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Nov 15 16:40:45 COT 2026
+comment0.target=Estadistica
+comment0.text=\r\n Write a description of class Estadistica here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.target=double getKickMultiplier()
+comment2.target=double getMaxHealth()
+comment3.target=void upgradeKick()
+comment4.target=void upgradeSurvival()
+comment5.target=int getKickLevel()
+comment6.target=int getSurvivalLevel()
+numComments=7

@@ -1,0 +1,24 @@
+#BlueJ class context
+#Sun Nov 22 17:21:24 COT 2026
+comment0.target=DOPOSoccerGUI
+comment0.text=\r\n Capa de Presentaci\u00F3n - DOPOSoccer\r\n \r\n @author Julian David Laiton Laiton\r\n @version 1.1\r\n
+comment1.params=paisP1 paisP2 p1Auto behaviorP1 p2Auto behaviorP2
+comment1.target=DOPOSoccerGUI(java.lang.String, java.lang.String, boolean, dominio.IABehaviors, boolean, dominio.IABehaviors)
+comment10.params=jugadorLabel
+comment10.target=dominio.IABehaviors elegirComportamientoIA(java.lang.String)
+comment11.params=jugadorLabel indicePorDefecto
+comment11.target=java.lang.String elegirPaisSiEsNormal(java.lang.String, int)
+comment12.params=args
+comment12.target=void main(java.lang.String[])
+comment2.params=pais x y
+comment2.target=dominio.Character crearPersonaje(java.lang.String, double, double)
+comment3.target=void initComponents()
+comment4.params=e
+comment4.target=void keyPressed(java.awt.event.KeyEvent)
+comment5.target=void enfocarJuego()
+comment6.target=void guardarPartidaSegura()
+comment7.target=void abrirPartidaSegura()
+comment8.params=texto color
+comment8.target=javax.swing.JButton crearBotonEstilizado(java.lang.String, java.awt.Color)
+comment9.target=void startGameLoop()
+numComments=13

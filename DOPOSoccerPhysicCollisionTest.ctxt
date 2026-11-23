@@ -1,0 +1,8 @@
+#BlueJ class context
+#Sun Nov 15 18:41:04 COT 2026
+comment0.target=DOPOSoccerPhysicCollisionTest
+comment0.text=\r\n The test class DOPOSoccerPhysicCollisionTest.\r\n\r\n @author  (your name)\r\n @version (a version number or a date)\r\n
+comment1.target=void testBallInitialVelocityIsZero()
+comment2.target=void testBallCollisionWithPlayerChangesVelocity()
+comment3.target=void testCharacterPositionUpdatesOnUpdateCall()
+numComments=4

@@ -1,0 +1,35 @@
+#BlueJ class context
+#Sun Nov 22 17:14:57 COT 2026
+comment0.target=DOPOSoccerModel
+comment0.text=\r\n Write a description of class DOPOSoccerModel here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=p1 p2 matchType limit
+comment1.target=DOPOSoccerModel(Character, Character, java.lang.String, int)
+comment10.target=void resetPositions()
+comment11.target=void togglePause()
+comment12.params=paused
+comment12.target=void setPaused(boolean)
+comment13.target=void checkWinner()
+comment14.params=filepath
+comment14.target=void saveGame(java.lang.String)
+comment15.params=filepath
+comment15.target=DOPOSoccerModel loadGame(java.lang.String)
+comment16.target=Character getPlayer1()
+comment17.target=Character getPlayer2()
+comment18.target=Ball getBall()
+comment19.target=boolean isPaused()
+comment2.params=p1Auto behaviorP1 p2Auto behaviorP2
+comment2.target=void setPlayerConfigurations(boolean, IABehaviors, boolean, IABehaviors)
+comment20.target=boolean isGameOver()
+comment21.target=java.lang.String getWinnerMessage()
+comment22.target=float getMatchTimer()
+comment3.target=boolean isPlayer1Auto()
+comment4.target=boolean isPlayer2Auto()
+comment5.target=IABehaviors getBehaviorP1()
+comment6.target=IABehaviors getBehaviorP2()
+comment7.params=deltaTime
+comment7.target=void updateGame(float)
+comment8.params=p
+comment8.target=void checkBallCollision(Character)
+comment9.params=scorer defender
+comment9.target=void registerGoal(Character, Character)
+numComments=23

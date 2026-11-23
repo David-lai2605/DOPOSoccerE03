@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Nov 15 16:40:45 COT 2026
+comment0.target=SpecialShot
+comment0.text=\r\n Write a description of class SpecialShot here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=duration baseDamage
+comment1.target=SpecialShot(float, double)
+comment2.params=target
+comment2.target=void applyEffect(Character)
+comment3.target=double getBaseDamage()
+comment4.target=float getDuration()
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+#Sun Nov 15 18:23:09 COT 2026
+comment0.target=DOPOSoccerSpecialShotTest
+comment0.text=\r\n The test class DOPOSoccerSpecialShotTest.\r\n\r\n @author  (your name)\r\n @version (a version number or a date)\r\n
+comment1.target=void testEnergyBarInitialStateZero()
+comment2.target=void testEnergyBarPartialCharging()
+comment3.target=void testSpecialPowerCannotActivateWithoutFullEnergy()
+comment4.target=void testSpecialPowerActivateWhenEnergyIsFull()
+numComments=5

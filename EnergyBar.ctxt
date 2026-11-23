@@ -1,0 +1,11 @@
+#BlueJ class context
+#Sun Nov 15 16:40:45 COT 2026
+comment0.target=EnergyBar
+comment0.text=\r\n Write a description of class EnergyBar here.\r\n \r\n @author (your name) \r\n @version (a version number or a date)\r\n
+comment1.params=amount
+comment1.target=void charge(float)
+comment2.target=void addQuarter()
+comment3.target=boolean isFull()
+comment4.target=void reset()
+comment5.target=float getEnergy()
+numComments=6
